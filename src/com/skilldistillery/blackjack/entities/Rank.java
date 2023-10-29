@@ -14,9 +14,5 @@ public enum Rank {
 	public int getRank() {
 		return rank;
 	}
-
-	public void setRank(int rank) {
-		this.rank = rank;
-	}
-
+	
 }
